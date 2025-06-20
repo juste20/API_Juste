@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "685538e39170fb375d14f614"
+  },
+  "nom": "Alice",
+  "email": "alice@mail.com",
+  "motDePasse": "$2b$10$uRuWBiJuqv1c5SzW6lDrUOZhQ1UUR9u/1v12bzO06CyDl1TYeTjBW",
+  "dateInscription": {
+    "$date": "2024-06-01T10:00:00Z"
+  }
+}]

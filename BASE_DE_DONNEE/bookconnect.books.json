@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "68553a357bdc4191a3ebf9d3"
+  },
+  "bookId": {
+    "$oid": "685539b67bdc4191a3ebf9d2"
+  },
+  "userId": {
+    "$oid": "685538e39170fb375d14f614"
+  },
+  "commentaire": "Super livre pour les débutants",
+  "note": 4,
+  "date": {
+    "$date": "2024-06-02T09:30:00Z"
+  }
+}]
